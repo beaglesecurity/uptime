@@ -11,7 +11,7 @@ sites:
   - name: Blog
     url: https://beaglesecurity.com/blog
   - name: Status
-    url: https://stats.beaglesecurity.com/
+    url: https://help.beaglesecurity.com/
 
 
 status-website:
