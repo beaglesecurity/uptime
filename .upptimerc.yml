@@ -19,11 +19,6 @@ sites:
     assignees:
       - rejahrehim
       - anees264 
-  - name: Status
-    url: https://auto.anees.me/
-    assignees:
-      - rejahrehim
-      - anees264 
 
 
 status-website:
