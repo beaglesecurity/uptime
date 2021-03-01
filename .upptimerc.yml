@@ -4,12 +4,13 @@ repo: uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
+  - name: Website
+    url: https://beaglesecurity.com
   - name: API
     url: https://api.beaglesecurity.com/healthz
   - name: Blog
     url: https://beaglesecurity.com/blog
-  - name: Website
-    url: https://beaglesecurity.com
+
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
