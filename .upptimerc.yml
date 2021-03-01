@@ -6,12 +6,24 @@ repo: uptime # Your GitHub repository name
 sites:
   - name: Website
     url: https://beaglesecurity.com
+    assignees:
+      - rejahrehim
+      - anees264 
   - name: API
     url: https://api.beaglesecurity.com/healthz
+    assignees:
+      - rejahrehim
+      - anees264 
   - name: Blog
     url: https://beaglesecurity.com/blog
+    assignees:
+      - rejahrehim
+      - anees264 
   - name: Status
     url: https://auto.anees.me/
+    assignees:
+      - rejahrehim
+      - anees264 
 
 
 status-website:
