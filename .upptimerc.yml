@@ -10,6 +10,8 @@ sites:
     url: https://api.beaglesecurity.com/healthz
   - name: Blog
     url: https://beaglesecurity.com/blog
+  - name: Status
+    url: https://stats.beaglesecurity.com/
 
 
 status-website:
