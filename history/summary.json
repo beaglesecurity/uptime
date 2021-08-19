@@ -4,10 +4,10 @@
     "url": "https://beaglesecurity.com",
     "icon": "https://favicons.githubusercontent.com/beaglesecurity.com",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 362,
@@ -15,7 +15,9 @@
     "timeWeek": 310,
     "timeMonth": 406,
     "timeYear": 362,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-19": 1
+    }
   },
   {
     "name": "API",
@@ -40,7 +42,7 @@
     "url": "https://beaglesecurity.com/blog",
     "icon": "https://favicons.githubusercontent.com/beaglesecurity.com",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +53,8 @@
     "timeWeek": 257,
     "timeMonth": 253,
     "timeYear": 403,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-19": 0
+    }
   }
 ]
