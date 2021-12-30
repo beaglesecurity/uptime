@@ -22,9 +22,9 @@
     "url": "https://api.beaglesecurity.com/healthz",
     "icon": "https://favicons.githubusercontent.com/api.beaglesecurity.com",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.74%",
     "uptimeYear": "99.87%",
@@ -34,6 +34,7 @@
     "timeMonth": 1054,
     "timeYear": 245,
     "dailyMinutesDown": {
+      "2021-12-30": 0,
       "2021-12-08": 85,
       "2021-12-07": 447,
       "2021-12-03": 20
