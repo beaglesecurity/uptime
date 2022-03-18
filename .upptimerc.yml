@@ -26,13 +26,13 @@ status-website:
   cname: status.beaglesecurity.com
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://beagle-web.s3.amazonaws.com/maintenance/beagle_blue.png
+  logoUrl: https://cdn.beaglesecurity.com/maintenance/beagle_blue.svg
   name: System Status
   links:
     - rel: stylesheet
-      href: https://beagle-web.s3.amazonaws.com/maintenance/status.css
-  favicon: https://beagle-web.s3.amazonaws.com/maintenance/favicon.png
-  faviconSvg: https://beagle-web.s3.amazonaws.com/assets/logo/beagle-sidebar-icon.svg
+      href: https://cdn.beaglesecurity.com/maintenance/status.css
+  favicon: https://cdn.beaglesecurity.com/maintenance/favicon.png
+  faviconSvg: https://cdn.beaglesecurity.com/assets/logo/beagle-sidebar-icon.svg
   robotsText: "User-agent: * \n Disallow: /"
 #   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
 #   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
