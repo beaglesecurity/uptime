@@ -4,18 +4,20 @@
     "url": "https://beaglesecurity.com",
     "icon": "https://icons.duckduckgo.com/ip3/beaglesecurity.com.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 259,
-    "timeDay": 216,
-    "timeWeek": 221,
-    "timeMonth": 260,
-    "timeYear": 260,
-    "dailyMinutesDown": {}
+    "timeDay": 149,
+    "timeWeek": 203,
+    "timeMonth": 254,
+    "timeYear": 259,
+    "dailyMinutesDown": {
+      "2023-07-18": 0
+    }
   },
   {
     "name": "API",
