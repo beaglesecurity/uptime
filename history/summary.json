@@ -24,18 +24,20 @@
     "url": "https://api.beaglesecurity.com/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/api.beaglesecurity.com.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
-    "timeDay": 109,
-    "timeWeek": 127,
+    "timeDay": 161,
+    "timeWeek": 137,
     "timeMonth": 224,
     "timeYear": 207,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-08": 0
+    }
   },
   {
     "name": "Blog",
