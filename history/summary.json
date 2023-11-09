@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 250,
-    "timeDay": 222,
-    "timeWeek": 173,
-    "timeMonth": 218,
+    "timeDay": 229,
+    "timeWeek": 180,
+    "timeMonth": 220,
     "timeYear": 239,
     "dailyMinutesDown": {
       "2023-07-18": 22
@@ -24,19 +24,20 @@
     "url": "https://api.beaglesecurity.com/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/api.beaglesecurity.com.ico",
     "slug": "api",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 204,
-    "timeDay": 161,
-    "timeWeek": 137,
-    "timeMonth": 224,
-    "timeYear": 207,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "88.27%",
+    "uptimeWeek": "98.32%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.97%",
+    "time": 205,
+    "timeDay": 262,
+    "timeWeek": 161,
+    "timeMonth": 231,
+    "timeYear": 208,
     "dailyMinutesDown": {
-      "2023-11-08": 0
+      "2023-11-09": 6,
+      "2023-11-08": 163
     }
   },
   {
@@ -51,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 345,
-    "timeDay": 194,
-    "timeWeek": 190,
-    "timeMonth": 294,
+    "timeDay": 343,
+    "timeWeek": 215,
+    "timeMonth": 299,
     "timeYear": 343,
     "dailyMinutesDown": {}
   }
