@@ -1,7 +1,7 @@
 url: https://api.beaglesecurity.com/healthz
-status: up
-code: 200
-responseTime: 232
-lastUpdated: 2023-11-09T00:05:38.268Z
+status: down
+code: 503
+responseTime: 171
+lastUpdated: 2023-11-09T18:32:41.469Z
 startTime: 2021-02-28T12:38:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
