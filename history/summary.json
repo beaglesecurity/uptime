@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 230,
-    "timeDay": 168,
-    "timeWeek": 172,
+    "timeDay": 157,
+    "timeWeek": 169,
     "timeMonth": 178,
     "timeYear": 220,
-    "dailyMinutesDown": {
-      "2023-07-18": 22
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 212,
-    "timeDay": 311,
-    "timeWeek": 179,
-    "timeMonth": 194,
+    "timeDay": 201,
+    "timeWeek": 189,
+    "timeMonth": 195,
     "timeYear": 208,
     "dailyMinutesDown": {
       "2023-11-09": 118,
@@ -51,10 +49,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 234,
-    "timeDay": 150,
-    "timeWeek": 127,
-    "timeMonth": 204,
+    "time": 233,
+    "timeDay": 142,
+    "timeWeek": 128,
+    "timeMonth": 205,
     "timeYear": 219,
     "dailyMinutesDown": {}
   }
