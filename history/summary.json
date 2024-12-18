@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 193,
-    "timeDay": 106,
-    "timeWeek": 142,
-    "timeMonth": 121,
-    "timeYear": 180,
+    "time": 192,
+    "timeDay": 107,
+    "timeWeek": 138,
+    "timeMonth": 120,
+    "timeYear": 179,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 275,
-    "timeDay": 164,
-    "timeWeek": 158,
-    "timeMonth": 183,
-    "timeYear": 277,
+    "timeDay": 137,
+    "timeWeek": 152,
+    "timeMonth": 180,
+    "timeYear": 276,
     "dailyMinutesDown": {
       "2024-09-15": 285,
       "2024-07-30": 35
@@ -50,10 +50,70 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 157,
-    "timeDay": 5,
+    "timeDay": 8,
     "timeWeek": 9,
     "timeMonth": 10,
-    "timeYear": 119,
+    "timeYear": 118,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Engine1H",
+    "url": "https://h.pug.gs",
+    "icon": "https://icons.duckduckgo.com/ip3/h.pug.gs.ico",
+    "slug": "engine1-h",
+    "status": "down",
+    "uptime": "7.15%",
+    "uptimeDay": "7.15%",
+    "uptimeWeek": "7.15%",
+    "uptimeMonth": "7.15%",
+    "uptimeYear": "7.15%",
+    "time": 878,
+    "timeDay": 878,
+    "timeWeek": 878,
+    "timeMonth": 878,
+    "timeYear": 878,
+    "dailyMinutesDown": {
+      "2024-12-18": 0
+    }
+  },
+  {
+    "name": "Engine2HOCR",
+    "url": "https://hocr.pug.gs",
+    "icon": "https://icons.duckduckgo.com/ip3/hocr.pug.gs.ico",
+    "slug": "engine2-hocr",
+    "status": "down",
+    "uptime": "4.73%",
+    "uptimeDay": "4.73%",
+    "uptimeWeek": "4.73%",
+    "uptimeMonth": "4.73%",
+    "uptimeYear": "4.73%",
+    "time": 891,
+    "timeDay": 891,
+    "timeWeek": 891,
+    "timeMonth": 891,
+    "timeYear": 891,
+    "dailyMinutesDown": {
+      "2024-12-18": 0
+    }
+  },
+  {
+    "name": "Engine3HTF",
+    "url": "https://htf.pug.gs",
+    "icon": "https://icons.duckduckgo.com/ip3/htf.pug.gs.ico",
+    "slug": "engine3-htf",
+    "status": "down",
+    "uptime": "13.16%",
+    "uptimeDay": "13.16%",
+    "uptimeWeek": "13.16%",
+    "uptimeMonth": "13.16%",
+    "uptimeYear": "13.16%",
+    "time": 904,
+    "timeDay": 904,
+    "timeWeek": 904,
+    "timeMonth": 904,
+    "timeYear": 904,
+    "dailyMinutesDown": {
+      "2024-12-18": 0
+    }
   }
 ]
