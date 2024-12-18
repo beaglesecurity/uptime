@@ -1,7 +1,7 @@
-url: https://hocr.pug.gs
+url: https://hocr.pug.gs/get_cords
 status: down
-code: 404
-responseTime: 891
-lastUpdated: 2024-12-18T07:58:11.344Z
+code: 405
+responseTime: 915
+lastUpdated: 2024-12-18T08:03:35.812Z
 startTime: 2024-12-18T07:58:09.949Z
 generator: Upptime <https://github.com/upptime/upptime>
