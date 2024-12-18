@@ -23,19 +23,19 @@ sites:
       - soorajvn07 
       - aadheeb
   - name: Engine1H
-    url: https://h.pug.gs
+    url: https://h.pug.gs/image_predict
     assignees:
       - rejahrehim
       - soorajvn07 
       - aadheeb
   - name: Engine2HOCR
-    url: https://hocr.pug.gs
+    url: https://hocr.pug.gs/get_cords
     assignees:
       - rejahrehim
       - soorajvn07 
       - aadheeb
   - name: Engine3HTF
-    url: https://htf.pug.gs
+    url: https://htf.pug.gs/image_predict
     assignees:
       - rejahrehim
       - soorajvn07 
