@@ -62,10 +62,10 @@
     "url": "https://h.pug.gs/helthz",
     "icon": "https://icons.duckduckgo.com/ip3/h.pug.gs.ico",
     "slug": "engine1-h",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 969,
@@ -73,17 +73,19 @@
     "timeWeek": 1026,
     "timeMonth": 971,
     "timeYear": 969,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-30": 1
+    }
   },
   {
     "name": "Engine2HOCR",
     "url": "https://hocr.pug.gs/helthz",
     "icon": "https://icons.duckduckgo.com/ip3/hocr.pug.gs.ico",
     "slug": "engine2-hocr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 958,
@@ -91,16 +93,18 @@
     "timeWeek": 880,
     "timeMonth": 982,
     "timeYear": 958,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-30": 1
+    }
   },
   {
     "name": "Engine3HTF",
     "url": "https://htf.pug.gs/helthz",
     "icon": "https://icons.duckduckgo.com/ip3/htf.pug.gs.ico",
     "slug": "engine3-htf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -109,6 +113,8 @@
     "timeWeek": 867,
     "timeMonth": 872,
     "timeYear": 914,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-30": 0
+    }
   }
 ]
