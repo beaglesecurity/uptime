@@ -62,10 +62,10 @@
     "url": "https://h.pug.gs/helthz",
     "icon": "https://icons.duckduckgo.com/ip3/h.pug.gs.ico",
     "slug": "engine1-h",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 967,
@@ -74,6 +74,7 @@
     "timeMonth": 948,
     "timeYear": 967,
     "dailyMinutesDown": {
+      "2025-02-05": 1,
       "2025-01-31": 16
     }
   },
@@ -82,10 +83,10 @@
     "url": "https://hocr.pug.gs/helthz",
     "icon": "https://icons.duckduckgo.com/ip3/hocr.pug.gs.ico",
     "slug": "engine2-hocr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 949,
@@ -94,6 +95,7 @@
     "timeMonth": 938,
     "timeYear": 949,
     "dailyMinutesDown": {
+      "2025-02-05": 1,
       "2025-01-31": 16
     }
   },
@@ -102,11 +104,11 @@
     "url": "https://htf.pug.gs/helthz",
     "icon": "https://icons.duckduckgo.com/ip3/htf.pug.gs.ico",
     "slug": "engine3-htf",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 924,
     "timeDay": 1067,
@@ -114,6 +116,7 @@
     "timeMonth": 894,
     "timeYear": 924,
     "dailyMinutesDown": {
+      "2025-02-05": 0,
       "2025-01-31": 15
     }
   }
