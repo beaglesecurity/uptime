@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 179,
-    "timeDay": 58,
-    "timeWeek": 119,
-    "timeMonth": 115,
+    "timeDay": 104,
+    "timeWeek": 123,
+    "timeMonth": 116,
     "timeYear": 162,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 272,
-    "timeDay": 116,
-    "timeWeek": 151,
-    "timeMonth": 175,
+    "timeDay": 229,
+    "timeWeek": 175,
+    "timeMonth": 180,
     "timeYear": 278,
     "dailyMinutesDown": {
       "2025-01-04": 25,
@@ -50,71 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 127,
-    "timeDay": 5,
+    "time": 126,
+    "timeDay": 10,
     "timeWeek": 11,
-    "timeMonth": 9,
+    "timeMonth": 10,
     "timeYear": 87,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Engine1H",
-    "url": "https://h.pug.gs/helthz",
-    "icon": "https://icons.duckduckgo.com/ip3/h.pug.gs.ico",
-    "slug": "engine1-h",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
-    "time": 949,
-    "timeDay": 812,
-    "timeWeek": 868,
-    "timeMonth": 935,
-    "timeYear": 949,
-    "dailyMinutesDown": {
-      "2025-01-31": 16
-    }
-  },
-  {
-    "name": "Engine2HOCR",
-    "url": "https://hocr.pug.gs/helthz",
-    "icon": "https://icons.duckduckgo.com/ip3/hocr.pug.gs.ico",
-    "slug": "engine2-hocr",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
-    "time": 934,
-    "timeDay": 901,
-    "timeWeek": 882,
-    "timeMonth": 925,
-    "timeYear": 934,
-    "dailyMinutesDown": {
-      "2025-01-31": 16
-    }
-  },
-  {
-    "name": "Engine3HTF",
-    "url": "https://htf.pug.gs/helthz",
-    "icon": "https://icons.duckduckgo.com/ip3/htf.pug.gs.ico",
-    "slug": "engine3-htf",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 914,
-    "timeDay": 803,
-    "timeWeek": 865,
-    "timeMonth": 896,
-    "timeYear": 914,
-    "dailyMinutesDown": {
-      "2025-01-31": 15
-    }
   }
 ]
