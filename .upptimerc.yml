@@ -9,19 +9,22 @@ sites:
     assignees:
       - rejahrehim
       - soorajvn07 
-      - aadheeb
+      - rithin01
+      - jiyadh-mangalan
   - name: API
     url: https://api.beaglesecurity.com/healthz
     assignees:
       - rejahrehim
       - soorajvn07
-      - aadheeb
+      - rithin01
+      - jiyadh-mangalan
   - name: Blog
     url: https://beaglesecurity.com/blog
     assignees:
       - rejahrehim
       - soorajvn07 
-      - aadheeb
+      - rithin01
+      - jiyadh-mangalan
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
